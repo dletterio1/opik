@@ -2,8 +2,6 @@
 .DS_Store
 
 # Environment variables
-.env.local
-.env
 
 # IntelliJ
 .idea/
@@ -92,3 +90,5 @@ response.txt
 
 # Playwright
 .playwright-mcp/
+config.bat
+node_modules
